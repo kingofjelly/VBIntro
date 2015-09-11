@@ -1,0 +1,9 @@
+C:\Users\DMC\Desktop\GitHub\VBIntro\VBIntro\bin\Debug\VBIntro.exe
+C:\Users\DMC\Desktop\GitHub\VBIntro\VBIntro\bin\Debug\VBIntro.pdb
+C:\Users\DMC\Desktop\GitHub\VBIntro\VBIntro\bin\Debug\VBIntro.xml
+C:\Users\DMC\Desktop\GitHub\VBIntro\VBIntro\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DMC\Desktop\GitHub\VBIntro\VBIntro\obj\Debug\VBIntro.Resources.resources
+C:\Users\DMC\Desktop\GitHub\VBIntro\VBIntro\obj\Debug\VBIntro.vbproj.GenerateResource.Cache
+C:\Users\DMC\Desktop\GitHub\VBIntro\VBIntro\obj\Debug\VBIntro.exe
+C:\Users\DMC\Desktop\GitHub\VBIntro\VBIntro\obj\Debug\VBIntro.xml
+C:\Users\DMC\Desktop\GitHub\VBIntro\VBIntro\obj\Debug\VBIntro.pdb
